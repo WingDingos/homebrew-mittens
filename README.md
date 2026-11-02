@@ -5,6 +5,7 @@ keyboard, trackpad and screen into a play scene so a toddler can press anything.
 
 ```sh
 brew tap wingdingos/mittens
+brew trust wingdingos/mittens   # Homebrew 7+ asks you to trust third-party taps once
 brew install --cask mittens
 ```
 
