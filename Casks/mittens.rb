@@ -1,6 +1,6 @@
 cask "mittens" do
-  version "1.5.0"
-  sha256 "04552d9173d09b59d7a9869a751d40874afde312de3a47b7a0364ff6e3d1cba1"
+  version "1.6.0"
+  sha256 "7f627d28f9e9832df466b7485a215cebcb6b57b7a99a9a3d0389997d4f8f60ca"
 
   # The mittens.wingdingos.com host sits behind a bot challenge that curl cannot pass, so the
   # cask fetches from the Cloudflare Pages origin, which serves the same notarized DMG.
